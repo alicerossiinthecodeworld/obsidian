@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"34a4c58ba6e9cf58","type":"text","text":"план работы\n","x":-140,"y":-340,"width":250,"height":60},
+		{"id":"0646f83cbbdc71bd","type":"text","text":"список заданий сделать по контракту","x":80,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"e012d4453e14a86c","type":"text","text":"список заданий подключить ","x":80,"y":-160,"width":250,"height":60,"color":"6"},
+		{"id":"dc398e18f559d170","type":"text","text":"рилс \n","x":80,"y":-100,"width":250,"height":60,"color":"1"},
+		{"id":"83acca74f959e843","type":"text","text":"подключить список статусов\n","x":80,"y":-40,"width":250,"height":50,"color":"6"},
+		{"id":"a4079a134c7a37f3","type":"text","text":"подключить автотесты на стг","x":-460,"y":70,"width":250,"height":60,"color":"4"},
+		{"id":"f2e867ea8ae84c1e","type":"text","text":"вторая часть проекта\n","x":80,"y":10,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"96028e763366bae5","type":"text","text":"починить фио заказчика","x":-210,"y":50,"width":250,"height":60,"color":"4"},
+		{"id":"dddaebf2e2674a4e","type":"text","text":"доделать календарик","x":-210,"y":110,"width":250,"height":60,"color":"4"},
+		{"id":"86ab18d9ff09b589","type":"text","text":"дейлик","x":-210,"y":170,"width":250,"height":50,"color":"4"},
+		{"id":"ed5158dca353d0e7","type":"text","text":"создать юзера для автотестов","x":-210,"y":0,"width":250,"height":50,"color":"4"},
+		{"id":"3a41b8784ae30b42","type":"text","text":"сделать функции для второго календарика","x":-210,"y":-50,"width":250,"height":50,"color":"4"},
+		{"id":"66464ac455b9b624","type":"text","text":"редактура","x":60,"y":-345,"width":250,"height":50},
+		{"id":"888e865aaf285d32","type":"text","text":"рилс \n","x":60,"y":-125,"width":250,"height":50,"color":"4"},
+		{"id":"f00304ad6d5bbc4c","type":"text","text":"подключить список статусов\n","x":60,"y":-75,"width":250,"height":50,"color":"4"},
+		{"id":"eaee9b6e9e674439","type":"text","text":"вторая часть проекта\n","x":60,"y":-25,"width":250,"height":60,"color":"4"},
+		{"id":"da466f5d49d5600a","type":"text","text":"список заданий сделать по контракту","x":-210,"y":-100,"width":250,"height":50,"color":"4"},
+		{"id":"2ec162369acc932b","type":"text","text":"список заданий подключить ","x":60,"y":-245,"width":250,"height":50,"color":"4"},
+		{"id":"5cdbf3bcf7a9ec88","type":"text","text":"синк по нелогируемым","x":-210,"y":-150,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[]
+}

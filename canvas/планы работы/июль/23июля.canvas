@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"d772fdd2c65fdf62","type":"text","text":"задачка по этикеткам ","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"215bc308ab01ae95","type":"text","text":"миграшки ","x":240,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"4b2d7ac2c074b7e2","type":"text","text":"     задачка платформы\n","x":-140,"y":-180,"width":250,"height":60},
+		{"id":"ba42f45010718b00","type":"text","text":"план дня\n23.07","x":80,"y":-360,"width":250,"height":50,"color":"6"},
+		{"id":"8cfd0fec38982a4d","type":"text","text":"changeset: add\n","x":580,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"a75e9e21d3eeec47","type":"text","text":"найти где это в проекте \n","x":238,"y":-240,"width":250,"height":60,"color":"4"},
+		{"id":"aba4425fecb62e7e","type":"text","text":"японский ","x":-10,"y":80,"width":250,"height":50,"color":"4"},
+		{"id":"7965f5da56cbb4e8","type":"text","text":"добавить  EAC на всех стикерах","x":580,"y":-242,"width":250,"height":60},
+		{"id":"68746f87327919c8","type":"text","text":"добавить дропдаун с остальными","x":915,"y":-238,"width":250,"height":60},
+		{"id":"c687263527f87401","type":"text","text":"подключить ручки нелогируемых\n","x":-10,"y":130,"width":250,"height":60,"color":"4"},
+		{"id":"8ec496d81062b4bf","type":"text","text":"катнуть платформу этикетки на прод","x":-10,"y":190,"width":250,"height":60,"color":"4"},
+		{"id":"eb8b6a9f65764c58","type":"text","text":"фигма-макет видика\n","x":-140,"y":-290,"width":250,"height":50},
+		{"id":"f3815a5cfda533c1","type":"text","text":"созвон по статусам","x":-10,"y":20,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"626f8be43569b426","fromNode":"4b2d7ac2c074b7e2","fromSide":"right","toNode":"215bc308ab01ae95","toSide":"left"},
+		{"id":"b00284d6803b8503","fromNode":"215bc308ab01ae95","fromSide":"right","toNode":"8cfd0fec38982a4d","toSide":"left"},
+		{"id":"f782b6f4580ebe68","fromNode":"d772fdd2c65fdf62","fromSide":"right","toNode":"a75e9e21d3eeec47","toSide":"left"},
+		{"id":"f65cdf6b1d62d141","fromNode":"a75e9e21d3eeec47","fromSide":"right","toNode":"7965f5da56cbb4e8","toSide":"left"},
+		{"id":"ff26b0ddf3ed5801","fromNode":"7965f5da56cbb4e8","fromSide":"right","toNode":"68746f87327919c8","toSide":"left"}
+	]
+}

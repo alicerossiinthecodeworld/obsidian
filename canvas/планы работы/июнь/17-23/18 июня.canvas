@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3857e222897ff7e8","type":"text","text":"план на день\n","x":-143,"y":-177,"width":250,"height":60},
+		{"id":"410009fc49308b33","type":"text","text":"йога","x":-320,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"4128fc631b484f04","type":"text","text":"японский","x":-320,"y":60,"width":250,"height":60,"color":"4"},
+		{"id":"a1429815862a350c","type":"text","text":"редактура","x":0,"y":-100,"width":250,"height":60},
+		{"id":"5c264ed9ac8c15ad","type":"text","text":"размокать ручки","x":0,"y":-40,"width":250,"height":60},
+		{"id":"a351ab04b6bb1cdf","type":"text","text":"рисовать ","x":-320,"y":180,"width":250,"height":60,"color":"4"},
+		{"id":"1efc6eda23853c71","type":"text","text":"рилс\n","x":-320,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"58cf0157fe8f41c3","type":"text","text":"начать проект практикум","x":-320,"y":300,"width":250,"height":60,"color":"4"},
+		{"id":"2b4f1af8c560d538","type":"text","text":"подпихнуть процесс чтобы ручки катнули на стг\n","x":-320,"y":360,"width":250,"height":60,"color":"4"},
+		{"id":"3a07afcfafaf7c37","type":"text","text":"привести в порядок обсидиан\n","x":0,"y":20,"width":250,"height":60}
+	],
+	"edges":[]
+}

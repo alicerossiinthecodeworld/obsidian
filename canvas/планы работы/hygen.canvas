@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ebe78866856278f7","type":"text","text":"добавить папку с пинией в \nhttps://gitlab.ozon.ru/fe/bootstraper/-/tree/develop/packages/preset-project-nuxt3/template/_templates?ref_type=heads","x":-173,"y":-180,"width":293,"height":120,"color":"4"},
+		{"id":"9af40af8d21f65e5","type":"text","text":"update snapshots","x":-151,"y":-20,"width":250,"height":60,"color":"4"},
+		{"id":"710977fe31bdb43b","type":"text","text":"миграция в https://gitlab.ozon.ru/fe/bootstraper/-/tree/develop/packages/preset-project-nuxt3/migrations?ref_type=heads \nназвание папки next","x":-151,"y":60,"width":271,"height":140},
+		{"id":"e29b4f0157bc9e27","type":"text","text":"changeset:add","x":-124,"y":245,"width":250,"height":60},
+		{"id":"9a3df643d6d27c06","type":"text","text":"план платформенной задачки\n","x":-151,"y":-360,"width":250,"height":60},
+		{"id":"d97e5fab185e6449","type":"text","text":"скачать проект\n","x":-140,"y":-280,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[]
+}

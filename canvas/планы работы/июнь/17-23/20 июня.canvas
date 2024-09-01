@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a3499839da32a248","type":"text","text":"план работы","x":-196,"y":-310,"width":250,"height":60},
+		{"id":"31ebe5b9520e26cf","type":"text","text":"йога\n","x":-345,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"5cfc69289909b51d","type":"text","text":"убрать ошибку при загрузке","x":-345,"y":150,"width":250,"height":60,"color":"4"},
+		{"id":"d9312bbfb4fdd507","type":"text","text":"размокать ручки \n","x":-345,"y":90,"width":250,"height":60,"color":"4"},
+		{"id":"4cd7394abc4875af","type":"text","text":"брать юзеров из новой ручки\n","x":-345,"y":30,"width":250,"height":60,"color":"4"},
+		{"id":"c2b13aebb407dbd5","type":"text","text":"провести демо\n","x":-345,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"dd108ea5c6dbdc0f","type":"text","text":"редактура\n","x":-95,"y":-90,"width":250,"height":60},
+		{"id":"b2cc9a14767b9588","type":"text","text":"проект практикума","x":-95,"y":-30,"width":250,"height":60}
+	],
+	"edges":[]
+}

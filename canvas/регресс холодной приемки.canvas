@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0b4aa3f35b630af5","type":"text","text":"не знаю что такое холодная приемка ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"c83b20ef2d2ee75e","type":"text","text":"блокеры\n","x":-125,"y":-140,"width":250,"height":60},
+		{"id":"1afcf0ea63bb73ff","type":"text","text":"регресс обычных приемок с разными параметрами","x":280,"y":-30,"width":250,"height":60},
+		{"id":"084ca7a9bb86b7eb","type":"text","text":"что могу","x":280,"y":-130,"width":250,"height":50},
+		{"id":"bbe2c4310877e2a8","type":"text","text":"регресс делфей","x":280,"y":80,"width":250,"height":60,"color":"4"},
+		{"id":"c46ca8f6db0b6258","x":280,"y":140,"width":250,"height":60,"color":"4","type":"text","text":"создать табличку с регрессом"},
+		{"id":"9b238d1c92764d19","type":"text","text":"создать поставку и регресснуть веб","x":530,"y":-55,"width":250,"height":50}
+	],
+	"edges":[]
+}

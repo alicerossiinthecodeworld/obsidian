@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2b705137362d1586","type":"text","text":"задачка по этикеткам ","x":-485,"y":-35,"width":250,"height":60},
+		{"id":"c60cb76b775a74ec","type":"text","text":"миграшки ","x":-105,"y":25,"width":250,"height":60,"color":"4"},
+		{"id":"790c3f2357f05df9","type":"text","text":"     задачка платформы\n","x":-485,"y":25,"width":250,"height":60},
+		{"id":"a8e75fe85a594a12","type":"text","text":"changeset: add\n","x":235,"y":25,"width":250,"height":60,"color":"4"},
+		{"id":"39501740855cb347","type":"text","text":"найти где это в проекте \n","x":-107,"y":-35,"width":250,"height":60,"color":"4"},
+		{"id":"c4f80a16f39401a1","type":"text","text":"добавить  EAC на всех стикерах","x":235,"y":-37,"width":250,"height":60},
+		{"id":"7714f073ec8989ba","type":"text","text":"фигма-макет видика\n","x":-485,"y":-85,"width":250,"height":50},
+		{"id":"ed4a9ca7751fc8b9","type":"text","text":"план дня 24 ","x":-225,"y":-239,"width":250,"height":60},
+		{"id":"c57e8104b23c2794","type":"text","text":"лекция по систем дизайну","x":-485,"y":85,"width":250,"height":60},
+		{"id":"262c76ca39718c53","type":"text","text":"глава практикума","x":-180,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"2986824d1e847c0c","x":-485,"y":145,"width":250,"height":60,"type":"text","text":"нелогируемые"}
+	],
+	"edges":[
+		{"id":"fbc0f8e67b956e7c","fromNode":"2b705137362d1586","fromSide":"right","toNode":"39501740855cb347","toSide":"left"},
+		{"id":"86536b13c157cb55","fromNode":"c60cb76b775a74ec","fromSide":"right","toNode":"a8e75fe85a594a12","toSide":"left"},
+		{"id":"5798572ee192e85d","fromNode":"790c3f2357f05df9","fromSide":"right","toNode":"c60cb76b775a74ec","toSide":"left"},
+		{"id":"b8c4de15f8f84a2d","fromNode":"39501740855cb347","fromSide":"right","toNode":"c4f80a16f39401a1","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6429c6eeddbd17ea","type":"text","text":"йога","x":-365,"y":280,"width":250,"height":60,"color":"4"},
+		{"id":"e804fa1c0f761420","type":"text","text":"план недели","x":-365,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"68aed4dad9fcf37e","type":"text","text":"добавить кнопку вернуть в предыдущий статус","x":-365,"y":160,"width":250,"height":60,"color":"4"},
+		{"id":"e0d303d0c1e0d146","type":"text","text":"редактура главы\n","x":40,"y":-130,"width":250,"height":60},
+		{"id":"4ff06e4febee666c","type":"text","text":"план рабочего дня","x":-160,"y":-300,"width":250,"height":60},
+		{"id":"afa0dadf39561be0","type":"text","text":"рилс\n","x":-365,"y":100,"width":250,"height":60,"color":"4"},
+		{"id":"5d9748f773a846d3","type":"text","text":"порисовать кота","x":-365,"y":40,"width":250,"height":50,"color":"4"},
+		{"id":"d8d4bf7ca782e352","type":"text","text":"практикум добить теорию\n","x":-365,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"262823d7de93fce0","type":"text","text":"японский доделать главу\n\n","x":-365,"y":-70,"width":250,"height":50,"color":"4"},
+		{"id":"7fddf19f4ca90ad2","type":"text","text":"японский сделать тест","x":-365,"y":-125,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[]
+}

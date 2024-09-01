@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"10d61490d6a49b83","x":-600,"y":-60,"width":260,"height":140,"type":"text","text":"dbo.CountryWidePostingsLimitTodayGet\n\nполучает капаситет по каждому складу с фичей"},
+		{"id":"8ad0e970fe45df28","x":-280,"y":-190,"width":250,"height":170,"type":"text","text":"таблица, хранящая капаситеты\n\nPhysicalStoreAttribute psat **where** PhysicalStoreAttributeTypeID = 55 "},
+		{"id":"d4e4eaa6a56b0d82","x":-280,"y":60,"width":250,"height":130,"type":"text","text":"количество постингов  \n\n**SELECT** * **FROM** dbo.GetCountryWidePostings(getdate()); \n\n  \n\n"},
+		{"id":"b32b310b525b048c","x":-120,"y":-15,"width":200,"height":67,"type":"text","text":"<>=    склад включен или выключен"},
+		{"id":"0eedaa9583e21acc","x":-720,"y":-15,"width":99,"height":50,"type":"text","text":"Rezon "},
+		{"id":"552df15500104100","x":-590,"y":-380,"width":250,"height":60,"type":"text","text":"сервис countrywide capacity"},
+		{"id":"b9cf5a856289ce9e","x":-640,"y":-260,"width":280,"height":70,"type":"text","text":"кэшируем ответ и сравниваем с предыдущим, если изменен"},
+		{"id":"6d4d305f2a103d54","x":-170,"y":-380,"width":250,"height":60,"type":"text","text":"Topic: oe-wms-countrywide-capacity"},
+		{"id":"03eea4874d91eb70","x":-240,"y":-280,"width":137,"height":50,"type":"text","text":"lozon id"},
+		{"id":"8d555402a0f2d267","x":240,"y":-380,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7c7ed619611a460c","x":-597,"y":-529,"width":250,"height":60,"type":"text","text":"ручка GetCapacityByLozonIdsRequest"},
+		{"id":"dd9bef87718a6c25","x":80,"y":-435,"width":181,"height":85,"type":"text","text":"читает и запрашивает состояние складов"},
+		{"id":"15ff2045ae84cdae","x":-621,"y":-459,"width":301,"height":50,"type":"text","text":"результат dbo.CountryWidePostingsLimitTodayGet"}
+	],
+	"edges":[
+		{"id":"60441da7df21e643","fromNode":"10d61490d6a49b83","fromSide":"right","toNode":"8ad0e970fe45df28","toSide":"left"},
+		{"id":"7ae03b5f175b2576","fromNode":"10d61490d6a49b83","fromSide":"right","toNode":"d4e4eaa6a56b0d82","toSide":"left"},
+		{"id":"0b7273d0131de3c0","fromNode":"d4e4eaa6a56b0d82","fromSide":"top","toNode":"8ad0e970fe45df28","toSide":"bottom","toEnd":"none"},
+		{"id":"4e3bd065b29dac53","fromNode":"0eedaa9583e21acc","fromSide":"right","toNode":"10d61490d6a49b83","toSide":"left"},
+		{"id":"9b4c3bc876955796","fromNode":"552df15500104100","fromSide":"bottom","toNode":"10d61490d6a49b83","toSide":"top"},
+		{"id":"416391fb40469fa4","fromNode":"b9cf5a856289ce9e","fromSide":"right","toNode":"6d4d305f2a103d54","toSide":"bottom"},
+		{"id":"04be0510520d112c","fromNode":"8d555402a0f2d267","fromSide":"left","toNode":"6d4d305f2a103d54","toSide":"right"},
+		{"id":"003765b301fc5011","fromNode":"dd9bef87718a6c25","fromSide":"left","toNode":"7c7ed619611a460c","toSide":"right"},
+		{"id":"a8f608e52acdded1","fromNode":"552df15500104100","fromSide":"top","toNode":"7c7ed619611a460c","toSide":"bottom"}
+	]
+}

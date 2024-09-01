@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3b05e17e5948e54f","x":-80,"y":-320,"width":250,"height":50,"type":"text","text":"админка терминалов"},
+		{"id":"df62372cbd7b4fee","x":125,"y":-230,"width":250,"height":60,"type":"text","text":"от бека: \n"},
+		{"id":"3764a69d2697afed","x":125,"y":-150,"width":250,"height":90,"type":"text","text":"ручка которая получает инфу по релизу и раскатывает его на тсд\n"},
+		{"id":"439db6ec89926dbd","x":-300,"y":40,"width":250,"height":60,"type":"text","text":"табличка с выводом тсд успешно раскатанных "},
+		{"id":"a46ca4b8b3d2abeb","x":125,"y":-60,"width":250,"height":60,"type":"text","text":"вывод активных тсд\n"},
+		{"id":"869ae2da9ae37ee6","x":125,"y":0,"width":250,"height":60,"type":"text","text":"ручка должна получать информацию по тсд"},
+		{"id":"e76f0d190c207ece","x":125,"y":83,"width":250,"height":60,"type":"text","text":"список активных складов(warehouse api)"},
+		{"id":"83a99125a9f332dd","x":125,"y":180,"width":250,"height":60,"type":"text","text":"ручка отката"},
+		{"id":"8a4d8999e7522187","x":-300,"y":100,"width":250,"height":60,"type":"text","text":"e2e"},
+		{"id":"e8699b39d89da8a2","x":-300,"y":-30,"width":250,"height":60,"type":"text","text":"форма с инпутом? "},
+		{"id":"4d0783c2dfa99735","x":-300,"y":-120,"width":250,"height":60,"type":"text","text":"тоггл: склад/тсд \n"},
+		{"id":"ee30f2deb837b7b9","x":-300,"y":-200,"width":250,"height":50,"type":"text","text":"от фронта : "}
+	],
+	"edges":[]
+}

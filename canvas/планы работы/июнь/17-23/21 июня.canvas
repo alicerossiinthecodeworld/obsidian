@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"c8858b980b7118af","type":"text","text":"план работы ","x":-120,"y":-340,"width":250,"height":60},
+		{"id":"df75f740cca16054","type":"text","text":"встроить статусы в ручку\n","x":15,"y":-16,"width":250,"height":60},
+		{"id":"5392173ce9cda192","type":"text","text":"йога\n","x":-360,"y":-16,"width":250,"height":50,"color":"4"},
+		{"id":"48a4e7eb3a5c781d","type":"text","text":"дейлик","x":-360,"y":34,"width":250,"height":50,"color":"4"},
+		{"id":"596e8f45967cea88","type":"text","text":"доделать роуты для практикума","x":-360,"y":-75,"width":250,"height":60,"color":"4"},
+		{"id":"c3e844f88499c129","type":"text","text":"встреча по нелогируемым операциям","x":-360,"y":84,"width":250,"height":60,"color":"4"},
+		{"id":"84280c62c6dd2d6c","x":15,"y":104,"width":250,"height":60,"type":"text","text":"рилс"},
+		{"id":"98a49fede18353ab","type":"text","text":"встреча по е2e","x":-360,"y":144,"width":250,"height":60,"color":"4"},
+		{"id":"9117762749cf4f07","type":"text","text":"встреча мид ревью","x":-360,"y":-147,"width":250,"height":72,"color":"4"},
+		{"id":"4e989485188e4196","type":"text","text":"ретро\n","x":-360,"y":204,"width":250,"height":60,"color":"4"},
+		{"id":"638bff73d3fe831a","type":"text","text":"редактура","x":15,"y":44,"width":250,"height":60}
+	],
+	"edges":[]
+}

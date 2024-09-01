@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"43d721865fd41cc6","type":"text","text":"","x":-123,"y":-223,"width":250,"height":60},
+		{"id":"2d04f418eaa6e9b4","type":"text","text":"редактура","x":-123,"y":-248,"width":250,"height":50},
+		{"id":"46663358c7a2b602","type":"text","text":"вторая часть проекта\n","x":-123,"y":-198,"width":250,"height":60,"color":"4"},
+		{"id":"5d74c1aaf230fd0c","type":"text","text":"рилс \n","x":-123,"y":-138,"width":250,"height":50},
+		{"id":"bfe9776f55c910fd","type":"text","text":"дейлик\n","x":-123,"y":-88,"width":250,"height":60},
+		{"id":"39f263a69f9d4ce1","type":"text","text":"выкатить фронт","x":-123,"y":-28,"width":250,"height":60,"color":"4"},
+		{"id":"2d9aae259473c84f","type":"text","text":"подключить список статусов\n","x":-123,"y":-298,"width":250,"height":50,"color":"4"},
+		{"id":"3671c527662fa1d4","type":"text","text":"подключить склады\n","x":-123,"y":-358,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[]
+}

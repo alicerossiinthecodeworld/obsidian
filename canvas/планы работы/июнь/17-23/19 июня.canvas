@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a2aa542de373ee25","type":"text","text":"планы на день ","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"bd7cccb86de94e50","type":"text","text":"редактура","x":15,"y":35,"width":250,"height":50},
+		{"id":"032d231b8a64c9d1","type":"text","text":"доделать роуты для апи","x":15,"y":85,"width":250,"height":60},
+		{"id":"ae191e9cf334ed7d","type":"text","text":"подключить авторизацию к проекту","x":15,"y":145,"width":250,"height":60},
+		{"id":"681d905249f213c5","type":"text","text":"привести в порядок обсидиан","x":-460,"y":340,"width":250,"height":60,"color":"4"},
+		{"id":"b7d3b63e86c40320","type":"text","text":"сделать задачу для Егора","x":-460,"y":400,"width":250,"height":60,"color":"4"},
+		{"id":"621bcc62699e6a80","type":"text","text":"размокать ручки ","x":-460,"y":280,"width":250,"height":60,"color":"4"},
+		{"id":"1dbe743e09a7b28b","type":"text","text":"писать ручки на моках и ждать Дашу","x":-460,"y":205,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[]
+}

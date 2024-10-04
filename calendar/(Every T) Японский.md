@@ -1,7 +1,7 @@
 ---
 title: Японский
 allDay: false
-startTime: 09:30
+startTime: 09:00
 endTime: 11:00
 type: recurring
 daysOfWeek: [T]

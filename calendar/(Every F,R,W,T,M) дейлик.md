@@ -9,3 +9,5 @@ type: recurring
 daysOfWeek: [F,R,W,T,M]
 startRecur: 2024-09-04
 ---
+[[работа]]
+[[озон]]

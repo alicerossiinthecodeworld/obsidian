@@ -7,3 +7,4 @@ type: recurring
 daysOfWeek: [T]
 startRecur: 2024-09-04
 ---
+[[изучение японского]]

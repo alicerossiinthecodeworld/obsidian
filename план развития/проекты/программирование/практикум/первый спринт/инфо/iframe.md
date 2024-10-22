@@ -38,7 +38,7 @@ autoplay, loop, controls, muted, type, src
 
 
 
- #первыйспринт #фронтенд #достижения  #iframe 
+ #фронтенд #достижения  #iframe 
 #яндекс 
 
 
